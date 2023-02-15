@@ -1,0 +1,15 @@
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/bin/Debug/net6.0/mis-221-lab-4-KamiyahTaylor
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/bin/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.deps.json
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/bin/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.runtimeconfig.json
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/bin/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.dll
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/bin/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.pdb
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.csproj.AssemblyReference.cache
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.AssemblyInfoInputs.cache
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.AssemblyInfo.cs
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.csproj.CoreCompileInputs.cache
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.dll
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/refint/mis-221-lab-4-KamiyahTaylor.dll
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.pdb
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/mis-221-lab-4-KamiyahTaylor.genruntimeconfig.cache
+/Users/kamiyahtaylor/Documents/MIS221/Labs/Lab4/mis-221-lab-4-KamiyahTaylor/obj/Debug/net6.0/ref/mis-221-lab-4-KamiyahTaylor.dll
